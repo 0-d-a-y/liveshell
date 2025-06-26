@@ -24,7 +24,7 @@ Is a powerful, interactive tool designed to generate reverse shell payloads in m
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/livepwn/liveshell.git
+   git clone https://github.com/0-d-a-y/liveshell.git
    
    cd liveshell
    
